@@ -19,14 +19,7 @@ private​ ​ void​ tryCatch02() {
 }
 ```
 ```java
-try{
-	result​ = ​ num2​ / (​ num1​ - ​ num2​ );
-	System.​ out ​ .println(​ "Result: "​ + ​ result​ );
-}catch(ArithmeticException e){
-System.out.println("Division by 0");
-result=0;
-}
-
+Your code
 ```
 
 2.What is the output of the following code, when tryCatch06() is called?
@@ -54,8 +47,7 @@ private void try06(int num, String s) {
 ```
 
 ```
-C
-B Error
+Your answer
 ```
 
 3. What is the output of the following code, when ​ tryCatch08()​ is called?
@@ -83,9 +75,7 @@ private​ ​ void​ try08(​ int​ ​ num​ , String ​ s ​ ) {
 ```
 
 ```java
-C
-B
-E
+Your answer
 ```
 
 Exercise Two - Arrays and Exception
